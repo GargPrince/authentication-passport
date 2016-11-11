@@ -1,5 +1,5 @@
 {
-  "name": "node-authentication",
+  "name": "authentication-passport",
   "main": "server.js",
   "dependencies": {
     "express": "~4.0.0",
@@ -19,7 +19,6 @@
     "express-session": "~1.0.0",
     "nodemon": "~1.11.0",
     "node-uuid": "~1.4.7",
-    "jsonwebtoken": "~7.1.9",
     "multer": "~1.2.0"
   }
 }
